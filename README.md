@@ -20,7 +20,7 @@ I'm Anuj Mishra, currently pursuing my studies at Galgotias University. I'm pass
 
 ### 📫 How to reach me:
 - Email: [codemaestro509@gmail.com]
-- LinkedIn: [linkedin.com/in/anuj-mishra-255628295]
+- LinkedIn: [(https://www.linkedin.com/in/anuj-mishra-255628295/)]
 
 ### 🌱 Always Learning:
 I’m always looking to learn new technologies, improve my coding skills, and contribute to open-source projects.
